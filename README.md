@@ -6,7 +6,7 @@ Displays affirmations in a notification from Notification Center.
 
 ## Visuals
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/nina-tan/Affirmations/blob/master/affirmation_demo.gif)
 
 ## Steps
 
